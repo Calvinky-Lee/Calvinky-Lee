@@ -1,5 +1,4 @@
 ## Hi im Calvin
 
-I study cs a u waterloo
+I study Computer Science at UWaterloo
 
-I love building cool stuff
