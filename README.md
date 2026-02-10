@@ -8,10 +8,7 @@
 
 ---
 
-### 🔧 <code>currently building</code>
-- ros2 + isaacsim + isaaclab RL policy implementation and training  
-- sim2real robotics policies  
-- custom RL environments + control systems  
+### 🔧 <code>Notable Projects</code>
 
 ---
 
