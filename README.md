@@ -3,7 +3,7 @@
 
 <pre align="center">
 <code>- cs @ uwaterloo
-- prev @thri5 | AI startup developing retail AI-powered operating system
+- prev @thri5 | AI startup developing AI-powered retail operating system
 - finalist @ Go On Hacks</code>
 </pre>
 
