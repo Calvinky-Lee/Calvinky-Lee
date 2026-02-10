@@ -3,8 +3,7 @@
 
 <pre align="center">
 <code>- cs @ uwaterloo
-- finalist @ Go On Hacks
-</code>
+- finalist @ Go On Hacks</code>
 </pre>
 
 ---
