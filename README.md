@@ -1,5 +1,5 @@
 <h1 align="center"><code>Hi! I'm Calvin</code></h1>
-<h2 align="center"><code> Focus in Snowflake SQL and Python | National Violinist</code></h2>
+<h4 align="center"><code> Focus in Snowflake SQL and Python | National Violinist</code></h4>
 
 <pre align="center">
 <code>- cs @ uwaterloo
