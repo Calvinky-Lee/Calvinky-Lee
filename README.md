@@ -2,10 +2,8 @@
 <h4 align="center"><code> CS @ UWaterloo | Data Engineering using Snowflake SQL and Python | National Violinist</code></h4>
 
 <pre align="center">
-<code>
-- prev @thri5 | Early-stage startup developing an AI-powered retail operating system
-- finalist @ Go On Hacks
-</code>
+<code>- prev @thri5 | Early-stage startup developing an AI-powered retail operating system
+- finalist @ Go On Hacks</code>
 </pre>
 
 ---
