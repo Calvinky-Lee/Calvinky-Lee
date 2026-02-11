@@ -2,9 +2,11 @@
 <h4 align="center"><code> Experience in Data Engineering using Snowflake SQL and Python | National Violinist</code></h4>
 
 <pre align="center">
-<code>- cs @ uwaterloo
-- prev @thri5 | AI startup developing AI-powered retail operating system
-- finalist @ Go On Hacks</code>
+<code>
+- <span style="color:#FFD54F;">cs @ uwaterloo</span>
+- prev @thri5 | Early-stage startup developing an AI-powered retail operating system
+- finalist @ Go On Hacks
+</code>
 </pre>
 
 ---
