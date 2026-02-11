@@ -1,9 +1,8 @@
 <h1 align="center"><code>Hi! I'm Calvin</code></h1>
-<h4 align="center"><code> Experience in Data Engineering using Snowflake SQL and Python | National Violinist</code></h4>
+<h4 align="center"><code> cs @ uwaterloo | Data Engineering using Snowflake SQL and Python | National Violinist</code></h4>
 
 <pre align="center">
 <code>
-- <span style="color:#FFD54F;">cs @ uwaterloo</span>
 - prev @thri5 | Early-stage startup developing an AI-powered retail operating system
 - finalist @ Go On Hacks
 </code>
