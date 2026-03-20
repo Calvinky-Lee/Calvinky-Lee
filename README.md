@@ -4,6 +4,7 @@
 <pre align="center">
 <code>- prev @thri5 | Early-stage AI startup developing an ML retail operating system
 - finalist @ Go On Hacks</code>
+  
 </pre>
 
 ---
