@@ -12,44 +12,6 @@
 
   <hr />
 
-  <h3>🚀 Notable Projects</h3>
-
-  <table>
-  <tr>
-  <td width="33%" valign="top"><h4><a
-  href="https://goosegrade.ca">GooseGrade</a><
-  /h4><p>Academic service that auto-extracts
-  weighting info for <b>1,600+</b> UW courses.
-   <b>7,000+</b> unique users, <b>16,000+</b>
-  page views.</p><p><sub><b>Stack:</b> Next.js
-   · React · TypeScript · PostgreSQL · OpenAI
-  API</sub></p><p><sub><a href="https://github
-  .com/Calvinky-Lee/GooseGrade">GitHub</a> ·
-  <a href="https://goosegrade.ca">Live</a></su
-  b></p></td>
-  <td width="33%" valign="top"><h4>AI/ML
-  Soccer Analysis</h4><p>Full computer vision
-  pipeline for soccer footage — player
-  detection + tracking, team clustering, and
-  perspective transforms for tactical
-  analytics.</p><p><sub><b>Stack:</b> Python ·
-   YOLO26 · ByteTrack · OpenCV · Scikit-learn
-  · Pandas</sub></p></td>
-  <td width="33%" valign="top"><h4><a
-  href="https://github.com/ItzNotKevin/tandem"
-  >Tandem</a></h4><p>Multimodal voice AI tutor
-   with interruptible conversations,
-  whiteboard reasoning, and PDF → interactive
-  React module
-  generation.</p><p><sub><b>Stack:</b> FastAPI
-   · Next.js · Gemini 2.0 · WebRTC ·
-  ElevenLabs</sub></p><p><sub><a
-  href="https://github.com/ItzNotKevin/tandem"
-  >GitHub</a></sub></p></td>
-  </tr>
-  </table>
-
-  <hr />
 
   <h3>🧰 Skills</h3>
 
