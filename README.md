@@ -2,14 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+CS+%40+University+of+Waterloo;%F0%9F%8E%BB+National+Level+Violinist;%F0%9F%8F%8B%EF%B8%8F+Avid+Bodybuilder;%E2%9A%A1+Always+shipping+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+CS+%40+University+of+Waterloo;%F0%9F%8E%BB+National+Level+Violinist;%F0%9F%8F%8B%EF%B8%8F+Avid+Bodybuilder" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://calvin-lee.ca/">Website</a> ·
-  <a href="https://www.linkedin.com/in/calvinlee33/">LinkedIn</a> ·
-  <a href="https://x.com/calviniscooked">Twitter</a>
 </p>
 
 <hr />
