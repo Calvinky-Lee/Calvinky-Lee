@@ -1,14 +1,10 @@
 <h1 align="center">Hi, I'm Calvin 👋</h1>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img
-  src="https://readme-typing-svg.herokuapp.com
-  /?font=JetBrains+Mono&size=22&duration=3000&
-  pause=800&color=8B5CF6&center=true&vCenter=t
-  rue&width=600&lines=CS+%40+University+of+Wat
-  erloo;National+Level+Violinist;Always+shippi
-  ng+something+new" alt="Typing SVG" /></a>
-  </p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+CS+%40+University+of+Waterloo;%F0%9F%8E%BB+National+Level+Violinist;%F0%9F%8F%8B%EF%B8%8F+Avid+Bodybuilder;%E2%9A%A1+Always+shipping+something+new" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://calvin-lee.ca/">Website</a> ·
@@ -44,7 +40,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/OOP-512BD4?style=for-the-badge" alt="OOP" />
 </p>
 
 <p><b>Frameworks & Web</b></p>
@@ -65,6 +62,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/YOLO26-111F68?style=for-the-badge" alt="YOLO26" />
+<img src="https://img.shields.io/badge/ByteTrack-FF6F00?style=for-the-badge" alt="ByteTrack" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
