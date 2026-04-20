@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Calvin 👋</h1>
+  <h1 align="center">Hi, I'm Calvin 👋</h1>
 
   <p align="center"><em>CS @ University of
-  Waterloo · National
+  Waterloo · Data Engineering · National
   Violinist</em></p>
 
   <p align="center"><a
@@ -12,6 +12,43 @@
 
   <hr />
 
+  <h3>🚀 Notable Projects</h3>
+
+  <table>
+  <tr>
+  <td width="33%" valign="top"><b>GooseGrade</
+  b><br/><br/>Academic service that
+  auto-extracts weighting info for
+  <b>1,600+</b> UW courses. <b>7,000+</b>
+  unique users, <b>16,000+</b> page
+  views.<br/><br/><sub><b>Stack:</b> Next.js ·
+   React · TypeScript · PostgreSQL · OpenAI
+  API</sub><br/><sub><a href="https://github.c
+  om/Calvinky-Lee/GooseGrade">GitHub</a> · <a
+  href="https://goosegrade.ca">Live</a></sub><
+  /td>
+  <td width="33%" valign="top"><b>AI/ML Soccer
+   Analysis</b><br/><br/>Full computer vision
+  pipeline for soccer footage — player
+  detection + tracking, team clustering, and
+  perspective transforms for tactical
+  analytics.<br/><br/><sub><b>Stack:</b>
+  Python · YOLO26 · ByteTrack · OpenCV ·
+  Scikit-learn · Pandas</sub></td>
+  <td width="33%" valign="top"><b>Tandem</b><b
+  r/><br/>Multimodal voice AI tutor with
+  interruptible conversations, whiteboard
+  reasoning, and PDF → interactive React
+  module
+  generation.<br/><br/><sub><b>Stack:</b>
+  FastAPI · Next.js · Gemini 2.0 · WebRTC ·
+  ElevenLabs</sub><br/><sub><a
+  href="https://github.com/ItzNotKevin/tandem"
+  >GitHub</a></sub></td>
+  </tr>
+  </table>
+
+  <hr />
 
   <h3>🧰 Skills</h3>
 
@@ -125,4 +162,7 @@
    alt="Website" /></a></p>
 
   <p><sub>Thanks for stopping by ✦</sub></p>
-  
+
+  <p><img src="https://komarev.com/ghpvc/?user
+  name=calvinky-lee&style=flat-square&color=bl
+  ueviolet" alt="Profile views" /></p>
