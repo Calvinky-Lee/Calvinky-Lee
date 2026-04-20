@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Calvin 👋</h1>
 
   <p align="center"><em>CS @ University of
-  Waterloo · Data Engineering · National
+  Waterloo · National
   Violinist</em></p>
 
   <p align="center"><a
