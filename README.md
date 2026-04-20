@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm Calvin 👋</h1>
 
-<p align="center"><em>CS @ University of Waterloo · National Violinist</em></p>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img
+  src="https://readme-typing-svg.herokuapp.com
+  /?font=JetBrains+Mono&size=22&duration=3000&
+  pause=800&color=8B5CF6&center=true&vCenter=t
+  rue&width=600&lines=CS+%40+University+of+Wat
+  erloo;National+Level+Violinist;Always+shippi
+  ng+something+new" alt="Typing SVG" /></a>
+  </p>
 
 <p align="center">
   <a href="https://calvin-lee.ca/">Website</a> ·
