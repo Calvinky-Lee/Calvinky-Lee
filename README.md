@@ -10,7 +10,17 @@
 <a href="https://calvin-lee.ca/"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/calvinlee33/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/calviniscooked"><img 
 
+<h3>🚀 Notable Projects</h3>
 
+<table>
+<tr>
+<td width="33%" valign="top"><b>GooseGrade</b><br/><br/>Academic service that auto-extracts weighting info for <b>1,600+</b> UW courses. <b>7,000+</b> unique users, <b>16,000+</b> page views.<br/><br/><sub><b>Stack:</b> Next.js · React · TypeScript · PostgreSQL · OpenAI API</sub><br/><sub><a href="https://github.com/Calvinky-Lee/GooseGrade">GitHub</a> · <a href="https://goosegrade.ca">Live</a></sub></td>
+<td width="33%" valign="top"><b>AI/ML Soccer Analysis</b><br/><br/>Full computer vision pipeline for soccer footage — player detection + tracking, team clustering, and perspective transforms for tactical analytics.<br/><br/><sub><b>Stack:</b> Python · YOLO26 · ByteTrack · OpenCV · Scikit-learn · Pandas</sub></td>
+<td width="33%" valign="top"><b>Tandem</b><br/><br/>Multimodal voice AI tutor with interruptible conversations, whiteboard reasoning, and PDF → interactive React module generation.<br/><br/><sub><b>Stack:</b> FastAPI · Next.js · Gemini 2.0 · WebRTC · ElevenLabs</sub><br/><sub><a href="https://github.com/ItzNotKevin/tandem">GitHub</a></sub></td>
+</tr>
+</table>
+
+<hr />
 <p><b>Languages</b></p>
 
 <p>
