@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Calvin 👋</h1>
+<h1 align="center">Hi, I'm Calvin </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -57,8 +57,5 @@
 
 <hr />
 
-
-
-<p><sub>Thanks for stopping by ✦</sub></p>
 
 <p><img src="https://komarev.com/ghpvc/?username=calvinky-lee&style=flat-square&color=blueviolet" alt="Profile views" /></p>
