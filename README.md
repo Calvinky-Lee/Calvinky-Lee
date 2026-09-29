@@ -10,7 +10,6 @@
 <a href="https://calvin-lee.ca/"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/calvinlee33/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/calviniscooked"><img 
 
-<h3>🧰 Skills</h3>
 
 <p><b>Languages</b></p>
 
